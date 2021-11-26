@@ -1,0 +1,19 @@
+.overlap {
+  background-color: white !important;
+  width: 100%;
+  height: 200px;
+  margin-top: -200px;
+  z-index: 888;
+  position: relative;
+  /* margin-left: 213px; */
+}
+
+.inputBoxed {
+  display: flex;
+  justify-content: center;
+  height: 20px;
+  margin-top: -142px;
+  position: absolute;
+  z-index: 999;
+  margin-left: 37%;
+}
